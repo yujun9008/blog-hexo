@@ -1,7 +1,7 @@
 ---
 title: JSON Web Token实践
 date: 2020-3-5
-updated: 2020-3-5
+updated: 2020-3-7
 ---
 
 > JSON Web Token 介绍及基于 koa2 实现一个简单的 JWT 鉴权
